@@ -6,7 +6,7 @@
       {
         "id": "33f8396f8e518fda",
         "type": "tabs",
-        "dimension": 46.86009538950716,
+        "dimension": 38.99046104928458,
         "children": [
           {
             "id": "a209976cd615d4b1",
@@ -25,7 +25,7 @@
       {
         "id": "9e0442777c1a0de3",
         "type": "tabs",
-        "dimension": 53.13990461049285,
+        "dimension": 61.009538950715424,
         "children": [
           {
             "id": "7c3030b70caeced4",
@@ -194,10 +194,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "7c3030b70caeced4",
+  "active": "a209976cd615d4b1",
   "lastOpenFiles": [
-    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
+    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/1.1.md",
     "Administración y Gestión de Organizaciones/Resumenes/Untitled",
     "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/4. INCIBE Plan de contingencia y continuidad de negocio.md",
