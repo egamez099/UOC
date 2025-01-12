@@ -11,10 +11,12 @@
             "id": "100aad7d4ff6eec4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-11 16.43.19.excalidraw"
             }
           }
         ]
@@ -73,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 285.5
   },
   "right": {
     "id": "49b636985ad8cd41",
@@ -155,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
