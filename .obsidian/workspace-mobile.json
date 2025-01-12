@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b4fe51ce4152bc3",
+        "id": "3abfe26f9edaac48",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb5bd94ee9a3437",
+            "id": "6270d61fdf920de8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Apartados 1 y 3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +91,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,9 +121,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
-          },
+          "state": {},
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -158,8 +152,9 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "2bb5bd94ee9a3437",
+  "active": "6270d61fdf920de8",
   "lastOpenFiles": [
+    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "/Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
     "Test.md"
   ]
