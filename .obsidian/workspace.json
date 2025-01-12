@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6ad525796a201c",
+        "id": "8203a899e7efdf7d",
         "type": "tabs",
         "children": [
           {
-            "id": "d448579b3f422fc0",
+            "id": "100aad7d4ff6eec4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Apartados 1 y 3"
-            }
-          },
-          {
-            "id": "759344a0dd2a585d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-11 16.43.19.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +170,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "759344a0dd2a585d",
+  "active": "100aad7d4ff6eec4",
   "lastOpenFiles": [
     "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
@@ -214,4 +199,8 @@
     "README.md",
     "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ejercicio 1.md",
     "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ejercicio 5.md",
-    "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ej
+    "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ejercicio 4.md",
+    "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ejercicio 3.md",
+    "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ejercicio 2.md"
+  ]
+}
