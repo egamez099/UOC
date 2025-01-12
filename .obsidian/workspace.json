@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "1a067864590e66a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6ad525796a201c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d448579b3f422fc0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Apartados 1 y 3"
+            }
+          },
+          {
+            "id": "759344a0dd2a585d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-11 16.43.19.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4c166276e866a75",
+    "type": "split",
+    "children": [
+      {
+        "id": "94cf1679f53c8be4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "becaa56eebc7538b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a67992c1116b997c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3083b3e5bab61c9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 403.5
+  },
+  "right": {
+    "id": "49b636985ad8cd41",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf8d439ad6b44032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4213ea0fcdfe8ed2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea23bcfe07be22df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Resumenes/1.1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1"
+            }
+          },
+          {
+            "id": "c694715ab85ee976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "17ba5361eb358201",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Resumenes/1.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1"
+            }
+          },
+          {
+            "id": "db3d87e86fcbe096",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "759344a0dd2a585d",
+  "lastOpenFiles": [
+    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
+    "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
+    "Administración y Gestión de Organizaciones/Resumenes/1.1.md",
+    "Administración y Gestión de Organizaciones/Resumenes/Untitled",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/4. INCIBE Plan de contingencia y continuidad de negocio.md",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/5. INCIBE Ciberseguridad y gestión de riesgos.pdf",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/5. INCIBE Ciberseguridad y gestión de riesgos.pdf.crdownload",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/3. Datos masivos y datos abiertos para una gobernanza inteligente.pdf",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/3. Datos masivos y datos abiertos para una gobernanza inteligente.pdf.crdownload",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/2. Uso y valor de la información personal.pdf",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/2. Uso y valor de la información personal.pdf.crdownload",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/1. Datos, organizaciones y resiliencia.pdf",
+    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/1. Datos, organizaciones y resiliencia.pdf.crdownload",
+    "Administración y Gestión de Organizaciones/1. Conceptos Básicos.md",
+    "Images/Pasted image 20240219175734.png",
+    "Excalidraw/Drawing 2024-02-19 18.04.21.excalidraw.md",
+    "Trading BOT data fetching.md",
+    "Fundamentos de Computadores/R1 - Introducción/Fundamentos de los computadores/Resumen/Introducción a los fundamentos de los computadores.md",
+    "Images/Pasted image 20240219183132.png",
+    "Images/Pasted image 20240219180955.png",
+    "Images/Pasted image 20240219182906.png",
+    "Images/Pasted image 20240219182456.png",
+    "Images/Pasted image 20240219181813.png",
+    "MyExcalidrawFile.md",
+    "README.md",
+    "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ejercicio 1.md",
+    "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ejercicio 5.md",
+    "Fundamentos de Computadores/R1 - Introducción/PEC 1/Ej
