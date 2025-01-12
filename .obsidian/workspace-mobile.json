@@ -11,14 +11,10 @@
             "id": "2bb5bd94ee9a3437",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "New tab"
             }
           }
         ]
@@ -95,7 +91,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -127,9 +121,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Test.md"
-          },
+          "state": {},
           "icon": "lucide-list",
           "title": "Outline"
         }
