@@ -11,10 +11,10 @@
             "id": "2bb5bd94ee9a3437",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
@@ -125,9 +125,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "356bcef87b809391",
+        "type": "leaf",
+        "state": {
+          "type": "timer-view",
+          "state": {},
+          "icon": "timer",
+          "title": "Timer"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,7 +152,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "a9267c69dda2ee57",
+  "active": "356bcef87b809391",
   "lastOpenFiles": [
     "Test.md"
   ]
