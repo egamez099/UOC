@@ -6,6 +6,7 @@
       {
         "id": "33f8396f8e518fda",
         "type": "tabs",
+        "dimension": 38.99046104928458,
         "children": [
           {
             "id": "a209976cd615d4b1",
@@ -18,9 +19,16 @@
               "icon": "lucide-file-text",
               "title": "Apartados 1 y 3"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9e0442777c1a0de3",
+        "type": "tabs",
+        "dimension": 61.009538950715424,
+        "children": [
           {
-            "id": "f54a9e807a1247ff",
+            "id": "7c3030b70caeced4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -31,8 +39,7 @@
               "title": "Drawing 2025-01-11 16.43.19.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "49b636985ad8cd41",
@@ -186,10 +194,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f54a9e807a1247ff",
+  "active": "a209976cd615d4b1",
   "lastOpenFiles": [
-    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
+    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/1.1.md",
     "Administración y Gestión de Organizaciones/Resumenes/Untitled",
     "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/4. INCIBE Plan de contingencia y continuidad de negocio.md",
