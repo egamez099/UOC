@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8203a899e7efdf7d",
+        "id": "33f8396f8e518fda",
         "type": "tabs",
         "children": [
           {
-            "id": "100aad7d4ff6eec4",
+            "id": "a209976cd615d4b1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Apartados 1 y 3"
+            }
+          },
+          {
+            "id": "f54a9e807a1247ff",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -19,7 +31,8 @@
               "title": "Drawing 2025-01-11 16.43.19.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "100aad7d4ff6eec4",
+  "active": "f54a9e807a1247ff",
   "lastOpenFiles": [
     "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
