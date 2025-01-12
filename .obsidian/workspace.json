@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33f8396f8e518fda",
+        "id": "305cf79528ed9e97",
         "type": "tabs",
-        "dimension": 38.99046104928458,
         "children": [
           {
-            "id": "a209976cd615d4b1",
+            "id": "74e3cf40011b5f9d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
+                "file": "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Apartados 1 y 3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9e0442777c1a0de3",
-        "type": "tabs",
-        "dimension": 61.009538950715424,
-        "children": [
-          {
-            "id": "7c3030b70caeced4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-11 16.43.19.excalidraw"
+              "title": "Resumen - AGO"
             }
           }
         ]
@@ -95,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "49b636985ad8cd41",
@@ -194,10 +173,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "7c3030b70caeced4",
+  "active": "74e3cf40011b5f9d",
   "lastOpenFiles": [
-    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
+    "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf",
+    "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf.crdownload",
     "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
+    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/1.1.md",
     "Administración y Gestión de Organizaciones/Resumenes/Untitled",
     "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/4. INCIBE Plan de contingencia y continuidad de negocio.md",
@@ -208,7 +189,6 @@
     "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/2. Uso y valor de la información personal.pdf",
     "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/2. Uso y valor de la información personal.pdf.crdownload",
     "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/1. Datos, organizaciones y resiliencia.pdf",
-    "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/1. Datos, organizaciones y resiliencia.pdf.crdownload",
     "Administración y Gestión de Organizaciones/1. Conceptos Básicos.md",
     "Images/Pasted image 20240219175734.png",
     "Excalidraw/Drawing 2024-02-19 18.04.21.excalidraw.md",
