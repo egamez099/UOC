@@ -11,10 +11,12 @@
             "id": "2bb5bd94ee9a3437",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Apartados 1 y 3"
             }
           }
         ]
@@ -91,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -153,7 +159,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "356bcef87b809391",
+  "active": "2bb5bd94ee9a3437",
   "lastOpenFiles": [
     "/Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
     "Test.md"
