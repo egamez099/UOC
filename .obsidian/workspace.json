@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "305cf79528ed9e97",
+        "id": "e8a05dbd7f37e7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "74e3cf40011b5f9d",
+            "id": "3cdb69b4b2d10529",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Administración y Gestión de Organizaciones/Resumenes/Esquema Orientado PEC.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Esquema Orientado PEC"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,10 +171,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "74e3cf40011b5f9d",
+  "active": "3cdb69b4b2d10529",
   "lastOpenFiles": [
-    "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Esquema Orientado PEC.pdf",
+    "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Esquema Orientado PEC.pdf.crdownload",
     "Administración y Gestión de Organizaciones/Exámenes",
     "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf.crdownload",
