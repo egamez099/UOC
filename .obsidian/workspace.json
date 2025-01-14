@@ -6,6 +6,7 @@
       {
         "id": "e8a05dbd7f37e7e3",
         "type": "tabs",
+        "dimension": 36.089030206677265,
         "children": [
           {
             "id": "3cdb69b4b2d10529",
@@ -17,6 +18,25 @@
               },
               "icon": "lucide-file-text",
               "title": "Apartados 1 y 3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eae043679d379e97",
+        "type": "tabs",
+        "dimension": 63.910969793322735,
+        "children": [
+          {
+            "id": "4a23801009ed5acd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-11 16.43.19.excalidraw"
             }
           }
         ]
@@ -75,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "49b636985ad8cd41",
@@ -176,12 +197,12 @@
   "active": "3cdb69b4b2d10529",
   "lastOpenFiles": [
     "Administración y Gestión de Organizaciones/Resumenes/Drawing 2025-01-11 16.43.19.excalidraw.md",
+    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Esquema Orientado PEC.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/Esquema Orientado PEC.pdf.crdownload",
     "Administración y Gestión de Organizaciones/Exámenes",
     "Administración y Gestión de Organizaciones/Resumenes/Resumen - AGO.pdf.crdownload",
-    "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
     "Administración y Gestión de Organizaciones/Resumenes/1.1.md",
     "Administración y Gestión de Organizaciones/Resumenes/Untitled",
     "Administración y Gestión de Organizaciones/Contenido/4. Datos, organizaciones y resiliencia/Apuntes/4. INCIBE Plan de contingencia y continuidad de negocio.md",
