@@ -6,7 +6,6 @@
       {
         "id": "e8a05dbd7f37e7e3",
         "type": "tabs",
-        "dimension": 36.089030206677265,
         "children": [
           {
             "id": "3cdb69b4b2d10529",
@@ -18,25 +17,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Apartados 1 y 3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eae043679d379e97",
-        "type": "tabs",
-        "dimension": 63.910969793322735,
-        "children": [
-          {
-            "id": "4a23801009ed5acd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Administración y Gestión de Organizaciones/Resumenes/Estudio de la empresa.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Estudio de la empresa"
             }
           }
         ]
@@ -195,7 +175,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "becaa56eebc7538b",
+  "active": "3cdb69b4b2d10529",
   "lastOpenFiles": [
     "Administración y Gestión de Organizaciones/Resumenes/Estudio de la empresa.md",
     "Administración y Gestión de Organizaciones/Contenido/1. Tipificación y análisis de una organización/Apuntes/Apartados 1 y 3.pdf",
