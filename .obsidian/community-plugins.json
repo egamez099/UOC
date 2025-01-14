@@ -4,5 +4,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-kanban",
-  "pomodoro-timer"
+  "pomodoro-timer",
+  "better-export-pdf"
 ]
